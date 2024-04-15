@@ -1,2 +1,2 @@
-# my-first-project
-"This is my first project on GitHub. It is a game called malib.
+# MALIB
+"Malib is a fun game. In which you have fill the blanks. And you can read the given story with your answers."
